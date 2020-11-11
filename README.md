@@ -1,2 +1,2 @@
 # rerebot
-autobot
+autobot to reply on reddit
